@@ -23,7 +23,7 @@ int main() {
 
     area = (height * base) / 2.0;
 
-    printf("Triangle Area : %0.1f", area) ;
+    printf("Triagle Area : %.1f", area) ;
 
     return 0 ;
 }

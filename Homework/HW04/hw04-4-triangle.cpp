@@ -18,7 +18,7 @@
 int main() {
     float height, base, area ;
 
-    printf("Enter H & W : ");
+    printf("Enter H & W :\n");
     scanf("%f %f", &height, &base) ;
 
     area = (height * base) / 2.0;
